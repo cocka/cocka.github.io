@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DevOps Roadmap
+title: Devopando
 email: gisele@mailbox.org
 description: >- # this means to ignore newlines until "baseurl:"
-  This blog is intented to be my personal experience in the DevOps roadmap path.
-  Here it will contains my studies and new findings.
-  Transfer knowledge is the best way to learn.
-baseurl: "/doc" # the subpath of your site, e.g. /blog
-url: "https://cocka.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+  A personal journey in the DevOps roadmap
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://cocka.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: devopando
 github_username:  cocka
 
