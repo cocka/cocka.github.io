@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This blog is intented to be my personal experience in the DevOps roadmap path.
   Here it will contains my studies and new findings.
   Transfer knowledge is the best way to learn.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/doc" # the subpath of your site, e.g. /blog
 url: "https://cocka.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: devopando
 github_username:  cocka
